@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Vivek a Freshman at National Institute of Technology Tiruchirappalli.
 - 💻 I'm good at C and C++
 - 👀 I’m interested to contribute to Open Source
-- 🌱 I’m currently learning Android dev
+- 🌱 I’m currently learning DevOps
 
 
 <!---
